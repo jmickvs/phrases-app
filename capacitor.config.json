@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "phrases-app",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

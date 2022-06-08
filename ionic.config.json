@@ -1,0 +1,8 @@
+{
+  "name": "phrases-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "d47a1f28"
+}
